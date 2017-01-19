@@ -1,0 +1,3 @@
+# Spanning-Tree-Demo
+
+Originally, this was to be my own implementation of Minesweeper using Python. However, I stopped working on the project due to time constraints, but adapted the code to serve as a visual example of a spanning tree algorithm in action. I took it a step further by also making two variants that demo the difference between using queueing versus stacking approaches to produce the same result.
